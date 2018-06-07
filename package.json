@@ -1,0 +1,21 @@
+{
+  "name": "chowetoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "solidity-coverage": "^0.5.4"
+  },
+  "dependencies": {
+    "trezor-wallet-provider": "^0.2.0",
+    "truffle-hdwallet-provider": "0.0.5"
+  }
+}
